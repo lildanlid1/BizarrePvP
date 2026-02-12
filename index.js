@@ -1,7 +1,7 @@
 const bedrock = require('bedrock-protocol')
 const express = require('express')
 const app = express()
-const WEB_PORT = 3000 // Web interface port
+const WEB_PORT = 8000 // Web interface port
 
 // Your Bedrock server config
 const SERVER_HOST = 'lildanlid4.progamer.me'
